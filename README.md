@@ -1,6 +1,6 @@
 # Oficina do Sr. José
 
-Este projeto tem como objetivo modernizar a oficina do Sr. José através do cadastro dos carros que entram para realizar serviços e seus respectivos donos. A modelagem lógica foi realizada utilizando o brModelo e a modelagem física foi implementada em SQL.
+Este projeto tem como objetivo modernizar a oficina do Sr. José através do cadastro dos carros que entram para realizar serviços e seus respectivos donos. A modelagem lógica foi realizada utilizando o brModelo e a modelagem física foi implementada em SQL. Utilizamos o SGBD MySQL e uma máquina virtual com o software Oracle VM VirtualBox para a implementação do projeto.
 
 ## Escopo do Projeto
 
@@ -12,6 +12,10 @@ Este projeto tem como objetivo modernizar a oficina do Sr. José através do cad
 ## Modelagem Lógica
 
 ![Modelagem Lógica](modelagem-logica-oficina.png)
+
+## Implementação
+
+O projeto foi implementado utilizando o SGBD MySQL em uma máquina virtual configurada com o software Oracle VM VirtualBox.
 
 ## Script SQL
 
